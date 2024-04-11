@@ -1,4 +1,8 @@
 ### Hi there 👋
 
 
-<p style="text-align: center;">[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,rust,bash,nextjs,react,rails)](https://skillicons.dev)</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,css,react,nextjs,rust,bash,vim,tailwind,rails" />
+  </a>
+</p>
